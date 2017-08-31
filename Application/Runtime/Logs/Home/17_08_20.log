@@ -1,0 +1,50 @@
+[ 2017-08-20T21:36:23+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/css/bootstrap.min.css
+ERR: 非法操作:css
+
+[ 2017-08-20T22:20:33+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/check
+ERR: Class 'Home\Controller\M' not found
+
+[ 2017-08-20T22:20:35+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/check
+ERR: Class 'Home\Controller\M' not found
+
+[ 2017-08-20T22:20:36+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/check
+ERR: Class 'Home\Controller\M' not found
+
+[ 2017-08-20T22:20:36+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/check
+ERR: Class 'Home\Controller\M' not found
+
+[ 2017-08-20T22:20:36+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/check
+ERR: Class 'Home\Controller\M' not found
+
+[ 2017-08-20T22:20:36+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/check
+ERR: Class 'Home\Controller\M' not found
+
+[ 2017-08-20T22:20:36+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/check
+ERR: Class 'Home\Controller\M' not found
+
+[ 2017-08-20T22:20:37+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/check
+ERR: Class 'Home\Controller\M' not found
+
+[ 2017-08-20T22:20:51+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/check
+ERR: Class 'Home\Controller\M' not found
+
+[ 2017-08-20T22:22:35+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/check
+ERR: Class 'Home\Controller\M' not found
+
+[ 2017-08-20T22:22:36+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/check
+ERR: Class 'Home\Controller\M' not found
+
+[ 2017-08-20T22:22:36+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/check
+ERR: Class 'Home\Controller\M' not found
+
+[ 2017-08-20T22:25:23+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/check
+ERR: SQLSTATE[HY000] [1049] Unknown database 'blog'
+
+[ 2017-08-20T22:33:34+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/check
+ERR: 1146:Table 'blog.msg' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `msg`
+
+[ 2017-08-20T22:33:47+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/check
+ERR: 1146:Table 'blog.blog' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `blog`
+
